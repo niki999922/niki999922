@@ -2,6 +2,20 @@
 
 <p align='left'>My decription...</p>
 
+
+### A little more about me...  
+
+```javascript
+const nikita = {
+  code: [Kotlin, Java, C, C++, Python, Haskell, Ocaml, Javascript, Typescript, HTML, CSS, Perl],
+  tools: [React, Redux, Node, Storybook, Jest, Docker, Swagger],
+  architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+  challenge: "I try to be in time everywhere"
+}
+```
+
+
+
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Some Statistic
 <p align=left> <img src=https://komarev.com/ghpvc/?username=niki999922 alt=niki999922 /> </p>
 
