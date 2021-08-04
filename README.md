@@ -17,7 +17,7 @@ const nikita = {
   ]
 }
 ```
-
+How to reach me: [LinkedIn](linkedin.com/in/nikita-kochetkov-236223218) · [Telegram](https://t.me/nktv1ng)
 
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Some Statistic
