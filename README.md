@@ -11,10 +11,6 @@ const nikita = {
   tools: [React, Redux, Node, Storybook, Jest, Docker, Swagger],
   architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
   challenge: "I try to be in time everywhere"
-  links: [
-    "linkedin.com/in/nikita-kochetkov-236223218",
-    "https://t.me/nktv1ng"
-  ]
 }
 ```
 How to reach me: [LinkedIn](linkedin.com/in/nikita-kochetkov-236223218) · [Telegram](https://t.me/nktv1ng)
