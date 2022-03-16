@@ -1,18 +1,5 @@
 ### Hi 👋
 
-<p align='left'>My decription...</p>
-
-
-### A little more about me...  
-
-```javascript
-const nikita = {
-  code: [Kotlin, Java, C, C++, Python, Haskell, Ocaml, Javascript, Typescript, HTML, CSS, Perl],
-  tools: [React, Redux, Node, Storybook, Jest, Docker, Swagger],
-  architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-  challenge: "I try to be in time everywhere"
-}
-```
 [Link on CV](https://github.com/niki999922/My-CV/blob/master/CV.pdf)
 How to reach me: [LinkedIn](https://www.linkedin.com/in/nikita-kochetkov/) · [Telegram](https://t.me/nktv1ng) · [Mail](niki999922@yandex.ru)
 
